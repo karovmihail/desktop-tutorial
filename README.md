@@ -13,6 +13,7 @@
 # Source code link: 
 [Source Code](rockPaperScissorsByMihail.py)
 # Screenshot:
-![Uploading Screenshot 2024-07-04 at 10.45.19.png…]()
-# Live demo:
+<img width="868" alt="Screenshot 2024-07-04 at 11 33 12" src="https://github.com/karovmihail/desktop-tutorial/assets/174586016/1ce90639-684d-4a95-b50d-a35797ec2377">
+
+# Live Demo:
 https://replit.com/@karovmisho/RockPaperScissorsByMihail
