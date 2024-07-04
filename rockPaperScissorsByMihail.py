@@ -48,9 +48,6 @@ while(True):
         prBlack("You lose! :(")
     prLightGray(f"Current score You - {player_score}, Computer - {computer_score}")
     play_again = input("Type [yes] to Play Again or [no] to quit: ")
-    if play_again == "yes":
-        prCyan(player_move)
-        break
     if play_again == "no":
         prRed("Thank you for playing!")
         break
